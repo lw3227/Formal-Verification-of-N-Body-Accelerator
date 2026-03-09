@@ -2,6 +2,11 @@
 
 This repository contains the course project materials for formal verification and implementation of an N-body accelerator.
 
+## Original Project
+
+The code is attached to the submission, and can be found in the original GitHub repository here:
+https://github.com/mthrndr/n-body-sim
+
 ## Project Structure
 
 - `software/`: software simulation and supporting scripts.
@@ -18,3 +23,7 @@ This repository contains the course project materials for formal verification an
 ## Notes
 
 This project was originally developed for a final report / presentation workflow and then organized into this public repository structure.
+
+## License
+
+This repository is licensed under the MIT License. See `LICENSE` for details.
